@@ -6,7 +6,7 @@
 // Simple definitions
 // ------------------------------------------------------
 
-// Any JS code can be "sync" or "async" 
+// A piece of JavaScript code is either "sync" or "async" 
 // "Sync" (a.k.a. blocking)
 // -- Means the code blocks the execution of the next piece of code, until it's finished
 // -- Tends to be simple operations (all the simple building blocks - math operations, loops, declaring variables)
