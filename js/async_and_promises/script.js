@@ -74,4 +74,4 @@ console.log('Hello')  // Some other SYNC code  // Output:  Hello
 
 // NB the overall output from above example is:
 //  Hello
-//  1    (this outputs second since the execution carries on with the next piece of code once the async promise has been kicked off)
+//  1    (not 0! This outputs second since the execution carries on with the next piece of code once the async promise has been kicked off)
